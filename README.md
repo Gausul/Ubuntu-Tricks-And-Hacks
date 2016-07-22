@@ -2,14 +2,15 @@
 
 Ubuntu Useful Commands
 
-Update CMD
+Update Ubuntu
+
 CMD: sudo apt-get update
 
-Upgrade CMD
+Upgrade Ubuntu
 
 CMD: sudo apt-get upgrade
 
-Install Apache 2
+Install Apache2
 
 CMD: sudo apt-get install apache2
 
