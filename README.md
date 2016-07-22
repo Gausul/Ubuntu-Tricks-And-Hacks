@@ -2,26 +2,30 @@
 
 Ubuntu Useful Commands
 
-Update Ubuntu
+`Update Ubuntu`
 
-CMD: sudo apt-get update
+`CMD: sudo apt-get update`
 
-Upgrade Ubuntu
+`Upgrade Ubuntu`
 
-CMD: sudo apt-get upgrade
+`CMD: sudo apt-get upgrade`
 
-Install Apache2
+`Change Directory `
 
-CMD: sudo apt-get install apache2
+`CMD: cd [Directory]`
 
-Start Apache2
+`Install Apache2`
 
-CMD : service apache2 start
+`CMD: sudo apt-get install apache2`
 
-Status Apache2 
+`Start Apache2`
 
-CMD: service apache2 status
+`CMD : service apache2 start`
 
-Stop apache2
+`Status Apache2 `
 
-CMD: service apache2 stop
+`CMD: service apache2 status`
+
+`Stop apache2`
+
+`CMD: service apache2 stop`
