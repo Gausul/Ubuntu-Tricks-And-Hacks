@@ -14,6 +14,10 @@ Ubuntu Useful Commands
 
 `CMD: cd [Directory]`
 
+`Create New Directory `
+
+`CMD: mkdir [Directory Name]`
+
 `Install Apache2`
 
 `CMD: sudo apt-get install apache2`
