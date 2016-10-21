@@ -37,4 +37,12 @@ Ubuntu Useful Commands
 
 ///------------------------------------------------
 
+`ZIP Code`
+
+`CMD: zip -r filename.zip *`
+
+`Unzip Code File`
+`CMD: unzip -r /file path/filename.zip`
+
+
 
